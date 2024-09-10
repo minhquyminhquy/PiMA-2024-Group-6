@@ -33,6 +33,7 @@ inspire other high school students in the coming years.
 Thank you.
 
 *August 08, 2024.*
+
 *Group 6.*
 
 # Summary 
@@ -59,6 +60,7 @@ problems. It is used to find the optimal value of a linear objective
 function, while satisfying the associated linear constraints.
 
 The linear programming problem in standard form has the form
+
 $$
 \begin{equation*}
     \begin{split}
