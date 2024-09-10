@@ -8,7 +8,7 @@ This repository contains the final report on the **Interior Point Method** devel
 - We strive for assisting and mentoring students in Vietnam who are curious to learn about Mathematics and its applications.
   
 ![Group 6 - Team Picture](./image/PiMA_picture.jpg)
-- Group 6, from left to right: Nguyễn Hoàng Khang (mentor, PhD student at UCLA), Phạm Quốc Bình (mentee), Lê Minh Quý (mentee), Bảo Quý Định Tân (mentee), Nguyễn Trần Hà Phương (mentee), Trần Phan Anh Danh (mentor, junior student at NTU, Singapore)
+- **Group 6**, from left to right: Nguyễn Hoàng Khang (mentor, PhD student at UCLA), Phạm Quốc Bình (mentee), Lê Minh Quý (mentee), Bảo Quý Định Tân (mentee), Nguyễn Trần Hà Phương (mentee), Trần Phan Anh Danh (mentor, junior student at NTU, Singapore)
 
 ### Key Topics Covered:
 - Theoretical foundation of the Interior Point Method
