@@ -6,6 +6,8 @@ This repository contains the final report on the **Interior Point Method** devel
 ### About PiMA 
 - PiMA is a non-profit project founded by Mathematics enthusiasts from some of the major universities in the world.
 - We strive for assisting and mentoring students in Vietnam who are curious to learn about Mathematics and its applications.
+  
+![Group 6 - Team Picture](./picture/PiMA_picture.jpg)
 
 ### Key Topics Covered:
 - Theoretical foundation of the Interior Point Method
