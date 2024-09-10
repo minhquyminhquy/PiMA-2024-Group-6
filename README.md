@@ -17,9 +17,10 @@ This repository contains the final report on the **Interior Point Method** devel
 - Lê Minh Quý
 
 ### Contents
-- `report.pdf`: The full report in PDF format
-- `notebook.ipynb`: Jupyter Notebook containing our code implementation for solving optimization problems using the Interior Point Method
-- `code/`: Python code used for algorithm implementation and visualizations
+- `[Group 6] Interior Point Method - Final Report - English version.pdf`: The full report (in English) in PDF format
+- `[Group 6] Interior Point Method - Final Report - Vietnamese version.pdf`: The full report (in Vietnamese) in PDF format 
+- `PiMA_2024_Interior_Point_Method_Notebook.ipynb`: Jupyter Notebook containing our code implementation for solving optimization problems using the Interior Point Method
+- `[Group 6] Interior Point Method - Slides - Vietnamese version.pdf`: The slide in PDF format we use in our final day representation
 
 ### How to Use
 1. Clone the repository:
