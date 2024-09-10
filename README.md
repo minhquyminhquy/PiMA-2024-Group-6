@@ -1,6 +1,3 @@
-# Create a README.md file with the provided content
-
-readme_content = """
 # Interior Point Method - PiMA 2024 Summer Camp Report
 
 ## Overview
