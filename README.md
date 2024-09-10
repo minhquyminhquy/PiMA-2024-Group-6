@@ -92,7 +92,7 @@ method often encounters. This is the highlight of the interior point
 method.
 
 
-![Illustration of the interior point method approach](images/IPM_Visualization.png){#minh hoa IPM}
+![Illustration of the interior point method approach](image/IPM_Visualization.png){#minh hoa IPM}
 width="0.5\linewidth"
 
 
