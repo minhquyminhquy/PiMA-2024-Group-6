@@ -91,9 +91,11 @@ problems related to the boundary of the problem, which the simplex
 method often encounters. This is the highlight of the interior point
 method.
 
+$$
 ![Illustration of the interior point method
 approach](images/IPM Visualization.png){#minh hoa IPM
 width="0.5\\linewidth"}
+$$
 
 The interior point method was first introduced in 1984 by Narendra
 Kramarkar, a researcher at IBM. Since then, many versions and
