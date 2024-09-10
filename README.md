@@ -1,4 +1,4 @@
-# Acknowledgments {#acknowledgments .unnumbered}
+# Acknowledgments
 
 First and foremost, we would like to extend our sincerest thanks to the
 founders of the summer camp: Mr. Can Tran Thanh Trung, Mr. Tran Hoang
@@ -32,12 +32,10 @@ inspire other high school students in the coming years.
 
 Thank you.
 
-::: flushright
-***August 08, 2024.***\
-***Group 6.***
-:::
+*August 08, 2024.*
+*Group 6.*
 
-# Summary {#summary .unnumbered}
+# Summary 
 
 This report focuses on studying and applying the interior point method,
 specifically the primal-dual version, to solve linear programming
@@ -61,18 +59,16 @@ problems. It is used to find the optimal value of a linear objective
 function, while satisfying the associated linear constraints.
 
 The linear programming problem in standard form has the form
-
-$$\begin{aligned}
-        \text{Maximize} \quad & \sum_{j=1}^{n} c_j x_j \\
-        \text{Subject to} \quad & \begin{array}{rl}
-            \sum_{j=1}^{n} a_{ij} x_j \leq b_i, & \forall \, i = 1, \dots, m \\
-            x_j \geq 0, & \forall \, j = 1, \dots, n
-        \end{array}
-    \end{aligned}$$ With
-
--   $\sum_{j=1}^{n}c_j x_{j}$ is objective function
-
--   $\sum_{j=1}^{n} a_{ij}x_j \le b_i$ và $x_j \ge 0$ are constraints
+$$
+\begin{equation*}
+    \begin{split}
+        \text{Minimize }  & Z = \sum_{i=1}^{n}\sum_{j=1}^{m}P_{ij}x_{ij} \\ 
+        \text{Subject to } & \sum_{j=1}^{m}x_{ij} \: = \: F_i \forall i=1,...,n \\ 
+                    &  \sum_{i=1}^{n}x_{ij} \le C_j \forall j=1,...,m  \\
+                    & x_{ij} \geq 0
+    \end{split} 
+\end{equation*}
+$$
 
 ## Interior Point Method
 
