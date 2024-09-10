@@ -8,6 +8,8 @@ This repository contains the final report on the **Interior Point Method** devel
 - We strive for assisting and mentoring students in Vietnam who are curious to learn about Mathematics and its applications.
   
 ![Group 6 - Team Picture](./image/PiMA_picture.jpg)
+width="200px"
+height="150px"
 
 ### Key Topics Covered:
 - Theoretical foundation of the Interior Point Method
