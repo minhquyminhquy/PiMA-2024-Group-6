@@ -2,7 +2,10 @@
 
 ## Overview
 
-This repository contains the final report on the **Interior Point Method** developed during the PiMA 2024 Summer Camp. Our report focuses on exploring and applying the interior point method, particularly the primal-dual approach, for solving linear programming problems.
+This repository contains the final report on the **Interior Point Method** developed during the PiMA 2024 Research Summer Camp. Our report focuses on exploring and applying the interior point method, particularly the primal-dual approach, for solving linear programming problems.
+### About PiMA 
+- PiMA is a non-profit project founded by Mathematics enthusiasts from some of the major universities in the world.
+- We strive for assisting and mentoring students in Vietnam who are curious to learn about Mathematics and its applications.
 
 ### Key Topics Covered:
 - Theoretical foundation of the Interior Point Method
